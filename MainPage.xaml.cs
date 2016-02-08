@@ -8,6 +8,8 @@ using Windows.UI.Xaml.Media.Imaging;
 /// by clicking the corresponding button.
 /// </summary>
 
+//this is the codebehind for the main page UI of the Rhythmic Dictation App
+
 namespace Rhythmic_Dictation
 {
 
